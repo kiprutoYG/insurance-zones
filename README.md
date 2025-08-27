@@ -1,7 +1,7 @@
 # Bangweulu Insurance Zone Mapping
 
 **Author:** Elkana Kipruto  
-**Date:** 10th May 2025  
+**Date:** 10th May 2025
 **Link to Dashboard:** https://bangweulu-assessment.vercel.app/
 **Notebook:** `bangweulu_assessment.ipynb`
 
