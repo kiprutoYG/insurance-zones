@@ -1,8 +1,8 @@
 # Bangweulu Insurance Zone Mapping
 
 **Author:** Elkana Kipruto  
-**Date:** 10th May 2025
-**Link to Dashboard:** https://bangweulu-assessment.vercel.app/
+**Date:** 10th May 2025  
+**Link to Dashboard:** https://bangweulu-assessment.vercel.app/  
 **Notebook:** `bangweulu_assessment.ipynb`
 
 ---
@@ -77,4 +77,3 @@ The goal is to identify **homogeneous zones** for crop insurance schemes by unde
 ## Repository Contents
 
 - `bangweulu_assessment.ipynb`: Main analysis notebook
-- Project Outputs: `https://bangweulu-assessment.vercel.app/`,
